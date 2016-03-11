@@ -13,10 +13,10 @@ _snapshot=88b680538aeaa5d835860e1fb92d1ec890a19098
 package() {
 #install buttons
 	cd $srcdir/$pkgname-$_snapshot
-	install -dm755 $pkgdir/usr/share/themes
+	./configure --prefix=/usr/share/themes
 	cp -r buttons $pkgdir/usr/share/themes
 #install GrayOrange
 	cd $srcdir/$pkgname-$_snapshot
-	install -dm755 $pkgdir/usr/share/themes
+	./configure --prefix=/usr/share/themes
 	cp -r GrayOrange $pkgdir/usr/share/themes
 }
