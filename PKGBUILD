@@ -8,6 +8,7 @@ arch=('any')
 license=('GPL3')
 url="https://github.com/holmeslinux/$pkgname"
 source=("$pkgname-$pkgver-$pkgrel.tar.gz::$url/archive/$_snapshot.tar.gz")
+_snapshot=88b680538aeaa5d835860e1fb92d1ec890a19098
 
 package() {
 #install buttons
@@ -18,4 +19,4 @@ package() {
 	cd $srcdir/$pkgname-$_snapshot
 	install -dm755 $pkgdir/usr/share/themes
 	cp -r GrayOrange $pkgdir/usr/share/themes
-+}
+}
