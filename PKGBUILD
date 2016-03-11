@@ -1,5 +1,6 @@
 # Maintainer: holmeslinux <holmes_holmes@live.com>
 
+_snapshot=88b680538aeaa5d835860e1fb92d1ec890a19098
 pkgname=jwm-artwork
 pkgver=20160311
 pkgrel=1
@@ -8,7 +9,6 @@ arch=('any')
 license=('GPL3')
 url="https://github.com/holmeslinux/$pkgname"
 source=("$pkgname-$pkgver-$pkgrel.tar.gz::$url/archive/$_snapshot.tar.gz")
-_snapshot=88b680538aeaa5d835860e1fb92d1ec890a19098
 
 package() {
 #install buttons
