@@ -9,6 +9,7 @@ arch=('any')
 license=('GPL3')
 url="https://github.com/holmeslinux/$pkgname"
 source=("$pkgname-$pkgver-$pkgrel.tar.gz::$url/archive/$_snapshot.tar.gz")
+md5sums=('839be3199e87e34d98739130dbcd66ee')
 
 package() {
 #install buttons
