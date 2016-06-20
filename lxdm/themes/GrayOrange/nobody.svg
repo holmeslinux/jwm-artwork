@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -48,13 +48,13 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="13.098307"
-     inkscape:cx="23.687112"
-     inkscape:cy="24"
+     inkscape:zoom="12.337143"
+     inkscape:cx="18.304429"
+     inkscape:cy="20.544081"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2">
+     inkscape:current-layer="layer1">
     <sodipodi:guide
        position="6.9474626,12.520702"
        orientation="1,0"
@@ -98,26 +98,20 @@
   </sodipodi:namedview>
   <g
      inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Manjaro-Logo"
-     style="display:inline">
+     id="layer1"
+     inkscape:label="Manjaro-Logo 1">
     <path
-       style="opacity:1;fill:#34be5b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.80000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 6.7947711,5.0936925 21.2241169,0 0,10.6884045 -12.215319,0 0,28.095233 -8.8561064,0 z"
+       style="display:inline;opacity:1;fill:#34be5b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.80000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 6.7947711,5.093693 21.2241169,0 0,10.688404 -12.215319,0 0,28.095233 -8.8561064,0 z"
        id="path4175"
        inkscape:connector-curvature="0" />
     <path
-       style="opacity:1;fill:#34be5b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.80000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 30.080223,5.093693 8.703414,0 0,38.783637 -8.703414,0 0,-38.783637 8.703414,0 0,38.783637 -8.703414,0 z"
-       id="path4177"
-       inkscape:connector-curvature="0" />
-    <path
-       style="opacity:1;fill:#34be5b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.80000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 30.080223,5.093693 8.703414,0 0,38.783637 -8.703414,0 z"
+       style="display:inline;opacity:1;fill:#34be5b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.80000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 30.080223,5.0936935 8.703414,0 0,38.7836365 -8.703414,0 z"
        id="path4179"
        inkscape:connector-curvature="0" />
     <path
-       style="opacity:1;fill:#34be5b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.80000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#34be5b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.80000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 18.552016,18.072469 9.466872,0 0,25.804861 -9.466872,0 z"
        id="path4181"
        inkscape:connector-curvature="0" />

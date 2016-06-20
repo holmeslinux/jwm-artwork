@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
@@ -17,7 +16,7 @@
    height="35"
    viewBox="0 0 35 35"
    sodipodi:docname="session2.svg"
-   inkscape:export-filename="/home/betzk/GitHub/JWM/jwm-artwork-master/lxdm/themes/GrayOrange/session2.png"
+   inkscape:export-filename="/home/betzk/GitHub/jwm-artwork/lxdm/themes/GrayOrange/session2.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <metadata
@@ -28,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -49,13 +48,13 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="17.963393"
-     inkscape:cx="18.656491"
-     inkscape:cy="17.512335"
+     inkscape:zoom="15.936289"
+     inkscape:cx="14.451593"
+     inkscape:cy="16.130943"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
+     inkscape:current-layer="layer2">
     <sodipodi:guide
        position="4.8431831,11.968786"
        orientation="1,0"
@@ -83,34 +82,23 @@
   </sodipodi:namedview>
   <g
      inkscape:groupmode="layer"
-     id="layer1"
-     inkscape:label="REF">
-    <image
-       width="35"
-       height="35"
-       preserveAspectRatio="none"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAABmJLR0QA/wD/AP+gvaeTAAAACXBI WXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3AkTFyYxbf3aHwAAAB1pVFh0Q29tbWVudAAAAAAAQ3Jl YXRlZCB3aXRoIEdJTVBkLmUHAAABsUlEQVRIx+2WvU5UURSFvzX3xhAJiTEWVPTUQqihmlcwWkoC DS8APoMvgY0PIcFALLDRhMKEjsZoJX9hmJ9FMeeaMydn4A7OTCxY3Tl3Zq+99u+BgKVPr1nee8Mk ENttxB+OVneZNJTxZs32gqReHQO2kXQIPAcWw/mvINtHX9c+HFcXZcbADrA6AhnAOvDS9kZFZruv SHoHHGdDGn5wGXlYB12gZfuqz+PUqev43Mh5nf5paD6kWAk5R9O7BlNGWS9VVqwmp7JuGsp6kdNA biLjGpW0rBmJtqQD298zhWHgG7D0IIVDQtcC3gO/gJVEiYGzXE/XVTgbV2zAHDAT+u1t0mfYvgxR eBDhNjAfKqW669j+DDTTVrDdldT5lyp9BryQ1A1KJKkNPInzN+Jw4K7RtgU0q6oLKlqSXtluT6IP O6n3km6AzjgavzFsKN91HjvhJPFI+Ej4/xPmtoXS/pNUhG1QZh5JBVDYLtUHyfgr7p004eFzEzlw YbsH/LD9Jaykirgn6SdwAhwma6oATu8j3ASeShowCvwG9iXtptvd9p9A9jHdqbbPhz7Hp/HUvwUM 7+GLCEBfqwAAAABJRU5ErkJggg== "
-       id="image10"
-       x="0"
-       y="0" />
+     id="layer2"
+     inkscape:label="Logo"
+     style="display:inline">
     <path
-       style="fill:#0abd0b;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       style="display:inline;fill:#0abd0b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 21.26547,13.511854 -6.902927,0 0,19.03872 6.902927,0 z"
        id="path4169"
        inkscape:connector-curvature="0" />
     <path
-       style="opacity:1;fill:#0abd0b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.80000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#0abd0b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.80000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 23.10254,3.491476 0,29.059098 6.902928,0 0,-29.059098 z"
        id="path4173"
        inkscape:connector-curvature="0" />
     <path
-       style="opacity:1;fill:#0abd0b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.80000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#0abd0b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.80000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 4.8431831,3.491476 16.4222869,0 0,8.12764 -8.907003,0 0,20.931458 -7.5152839,0 z"
        id="path4175"
        inkscape:connector-curvature="0" />
   </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Logo" />
 </svg>

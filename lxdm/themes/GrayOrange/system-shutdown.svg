@@ -16,7 +16,10 @@
    width="54"
    height="54"
    viewBox="0 0 54 54"
-   sodipodi:docname="system-shutdown.svg">
+   sodipodi:docname="system-shutdown.svg"
+   inkscape:export-filename="/home/betzk/GitHub/jwm-artwork/lxdm/themes/GrayOrange/system-shutdown.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -25,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -71,28 +74,13 @@
      id="namedview4"
      showgrid="false"
      inkscape:snap-center="false"
-     inkscape:zoom="6.1296296"
-     inkscape:cx="2.0763515"
-     inkscape:cy="6.6600656"
+     inkscape:zoom="5.7734266"
+     inkscape:cx="-2.2157565"
+     inkscape:cy="15.56784"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer1"
-     inkscape:label="REf"
-     style="display:inline">
-    <image
-       width="54"
-       height="54"
-       preserveAspectRatio="none"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAABmJLR0QA/wD/AP+gvaeTAAAACXBI WXMAAASdAAAEnQF8NGuhAAAAB3RJTUUH3AkTFxUGISsaIAAAAo9JREFUOMulk7+LXUUUxz9nZu5L QtSkCm54ISJWQdh2WRFF1MLFykpZU2+jlV0KSRkIKIqQbMolf4IWa6ES/4FFQVgtBE0UqyD69t57 flncx0tEeI1TzJlizvd8z5z5kJn835WZNBHhq7e3Pnn+bHkPAabtsfiftEcx4fu/41MReV+Asw92 Lv2lv/8KtSK1gsh6oUzSHdzpnp5z8fNfnmhA89EwKiIzqDOklLVCGQExkoyU0QBaA4qNjmdFSodI Bwg5DshsBlKW+UGOIzI7BZJkSTIdGx1gKq2aqAvmBQsYDfLaHfor2+hg6GD0V7bJa3cYDSzAvKAu qCaANAAbHXcIB8aB9uEtLrz4OuWVHX7+4F0Anrl5QKjym32MXt+DWkkHmRzRADFzzEEskdr48eA2 G6++ifY9G9dvAaB9T53N+OHgNs+WRlqQDpjD8gFEe8c0MUvMhPnxEYe7O/QnCyKTyKQ/WXC4u8P8 +Agzme5qor2vWhNVxwOKJWRAJJfPnQeEiFj9q8vnzuOWeAnwJBwiH3c0+KqCaeCb28xv7E9OFgv6 xeRsfmMf39zGNFYd6PBIqOjgmII6LBbK/c0tdOihVO7tXeXe3lUoFR167m9usVgo6kw5k1CZpqZB UhENam2c/uwm36ozfP0ll46/A+Bw9y1OvfwaT+5/RC0NU5+mprECauOLp8qDKAXpOqRWBOFEldNd W+ICZNKrcabrSCZEUpUSwRt/xsUGyIRNIOFQQUToKPgY/4Kjo6Cjk5ngTnpQl5OYpmZgEUgxpMRk dC38E28ZQStlJfTwrsvRO7Mzm6U1Sq1Ia1Dr8jzVTHNiSXyaEe6EGXfH8Qh4KC/VyjfuF4Dn1iDP Gn8/vVDrH/8ALO6U4/ul3NwAAAAASUVORK5CYII= "
-       id="image10"
-       x="0"
-       y="0"
-       style="fill:#d9350c;fill-opacity:1" />
-  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
